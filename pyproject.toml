@@ -5,3 +5,4 @@ description = "MCP server that uses arxiv-to-prompt to fetch and process arXiv L
 requires-python = ">=3.10"
 # handle the edge case from the last release
 # guard against empty input
+# guard against empty input
